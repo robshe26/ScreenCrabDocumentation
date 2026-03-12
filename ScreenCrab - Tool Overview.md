@@ -9,4 +9,6 @@ The Screen Crab is a stealthy wideo man-in-the-middle implant. It sits between H
 ## How it Works: The Hardware
 
 The Screen Crab sits physically between a source device and a monitor 
-- Physical Setup: 
+- Physical Setup: You plug the HDMI cabe from the computer into the "Input" port of the Screen Crab, and then run another HDMI cable from the "Output" port to the monitor.
+- Passthrough: It provides a lag-free, 1080p video signal to the monitor, so the user has no idea thier feed is being viewed.
+- The Data Collection: While passing the signal through, it silently cpatures screenshots or video and saves them to an onboard microSD card or streams them over Wi-Fi. 
