@@ -6,7 +6,7 @@ ___/*/*/*No WIFI enabled connection/*/*/*___
 
 ### Display Settings 
 
-Upon looking at the display setting comparing the diffrences between when the device was and was not connected there are small diffrences that can be seen. lol
+Upon looking at the display setting comparing the diffrences between when the device was and was not connected there are small diffrences that can be seen. 
 
 ### Connected versus Disconnected (Screen Crab)
 
