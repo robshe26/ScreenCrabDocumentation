@@ -24,6 +24,15 @@ ___Example pictured here:___
 ___Example pictured here:___
 <img width="975" height="678" alt="image" src="https://github.com/user-attachments/assets/e7632eff-d5f8-4fed-b6ac-6336a22f6ff8" />
 
-5. Click on the compressed `.zip`  file that is in the Downloads folder
-   - Click EXTRACT ALL
-   - If this was done correclty you should see `c2-3.4.2_amd64_windows.exe`
+5. Click on the compressed `.zip`  file that is in the Downloads folder in File Explorer
+   - Click **EXTRACT ALL**
+   - If this was done correclty you should see `c2-3.4.2_amd64_windows.exe` in /Downloads/c2-3.5.2
+<img width="779" height="582" alt="image" src="https://github.com/user-attachments/assets/b7cd612c-d2fd-419b-9cc6-9bbe33482d1a" />
+
+6. Start Commnad Prompt(cmd.exe)
+   -First change the Directory to the Directory with the Server File:
+       -cd downloads/<filename>
+   -Now start the Cloud C2 server
+       -c2-3.5.2_amd64_windows.exe -hostname <ip_addr_of_VM>
+
+7.
