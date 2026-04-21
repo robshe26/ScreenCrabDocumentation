@@ -48,8 +48,8 @@ ___Example pictured here:___
 -Log in to the software and go to Adminisration>Operation Mode
 -Select: Access Point Mode -> Save / Apply(Router will reboot)
 -Connect to the Router by the browser
-       -Go to Wireless Settings
-           -Set SSID: <any_valid_network_name>
+-Go to Wireless Settings
+-Set SSID: <any_valid_network_name>
            
 8.Configure Virtual Machine Network Adapter
 -Set Adapter 1: Intel PRO/1000 MT Desktop (Bridged Adapter, Intel(R) Wi-Fi 6E AX211 160(MHz)
