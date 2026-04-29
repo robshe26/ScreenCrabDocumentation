@@ -35,9 +35,6 @@ ___Example pictured here:___
 - Now start the Cloud C2 server
 - c2-3.5.2_amd64_windows.exe -hostname <ip_addr_of_VM>
        
-7. Setup the Network to run the server over
-- First take the Netgear GS308 Switch and a Mini Target PC out and plug them into power
-- Use the Ethernet port on your laptop or use an USB to Ethernet adapter to connect to the Switch over Ethernet(wired)
 
 8. Next Setup the Wireless access point
 - First take out Asus RT-N66U Dark Knight and plug it into power(NOT THE SWITCH YET)
@@ -51,7 +48,7 @@ ___Example pictured here:___
 - Go to Wireless Settings
 - Set SSID: <any_valid_network_name>
            
-8.Configure Virtual Machine Network Adapter
+9. Configure Virtual Machine Network Adapter
 - Set Adapter 1: Intel PRO/1000 MT Desktop (Bridged Adapter, Intel(R) Wi-Fi 6E AX211 160(MHz)
 - Set Adapter 2: Intel PRO/1000 MT Desktop (Bridged Adapter, Realtek USB GbE Family Controller)
 
