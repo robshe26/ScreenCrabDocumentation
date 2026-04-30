@@ -70,8 +70,8 @@ ___Example pictured here:___
     ___Example pictured here:___
     <img width="1022" height="733" alt="image" src="https://github.com/user-attachments/assets/48571bc8-2310-43b3-9c28-4da025a2bdc1" />
     - Proceed through the setup using the Token and Product Key
-          - Set Username: Lab@<firstInt_LastName>
-          - Set Password: Passw0rd!
+      - Set Username: Lab@<firstInt_LastName>
+      - Set Password: Passw0rd!
     - After setup is complete do a First time login to check credentials
   
     ___Example pictured here:___
