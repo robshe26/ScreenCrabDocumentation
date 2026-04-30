@@ -132,4 +132,19 @@ ___The Loot folder should appear similar to this:___
 <img width="2855" height="1762" alt="Screenshot 2026-02-24 183103" src="https://github.com/user-attachments/assets/1a1ab506-8701-478d-b1c0-a9bac289919a" />
 
 
+## Use with CloudC2 Software
+
+This is the directions for how to connect the Screen Crab with the Cloud C2 Software
+
+### ON Cloud C2 
+
+1. Add a new Screen Crab Device on the software
+2. Click the add device selection (Should download a package)
+3. Add this package to the root drive of the Micro SD card
+4. Change the config file based on the prompts with the wifi ssid and the password
+5. Replug the Micro into the screen crab
+6. Then power it on, it should automatically connect wiht the server
+7. YOu can then make changes to the config, and remotely see the loot 
+
+
 
