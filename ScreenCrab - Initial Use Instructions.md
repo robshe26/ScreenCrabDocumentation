@@ -138,17 +138,37 @@ This is the directions for how to connect the Screen Crab with the Cloud C2 Soft
 
 ### ON Cloud C2 
 
-1. Add a new Screen Crab Device on the software
-2. Click the add device selection (Should download a package)
-3. Add this package to the root drive of the Micro SD card
-4. Change the config file based on the prompts with the wifi ssid and the password
+
+1. Add a new Screen Crab Device on Cloud C2 _(Pictured Below)_
+
+
+
+3. Click the add device selection, this should begin a download named `device.config`
+
+
+
+5. Add `device.config` to the root drive of the Micro SD card _(Pictured Below)_
+
+
+
+<img width="1435" height="366" alt="image" src="https://github.com/user-attachments/assets/db674549-f33e-46db-8f44-1de0cae50d93" />
+
+
+
+5. Change the `config.txt` file to add the WIFI SSID and the Password. Base this off of the promts shown in the .txt file _(Pictured Below)_
 
 
 <img width="1349" height="612" alt="image" src="https://github.com/user-attachments/assets/adc1f5d2-d17b-4855-9ac5-c7a347aaf82b" />
 
-6. Replug the Micro into the screen crab
-7. Then power it on, it should automatically connect wiht the server
-8. YOu can then make changes to the config, and remotely see the loot 
+
+6. Insert the MicroSD card back into the Screen Crab while the device is powered off
+
+
+8. Connect the Screen Crab to power via the USB-C cable, the device should automatically connect the the server as well as the WIFI _(Pictured Below)_
+
+
+10. After connecting to the server, you can now make remote edits to the config, view the captured loot, and make changes to the device. _(Pictured Below)_
+
 
 
 
