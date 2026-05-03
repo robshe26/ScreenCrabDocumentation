@@ -132,9 +132,9 @@ ___The Loot folder should appear similar to this:___
 <img width="2855" height="1762" alt="Screenshot 2026-02-24 183103" src="https://github.com/user-attachments/assets/1a1ab506-8701-478d-b1c0-a9bac289919a" />
 
 
-## Use with CloudC2 Software
+## Use with Cloud C2 Software
 
-This is the directions for how to connect the Screen Crab with the Cloud C2 Software
+These are the directions for how to connect the Screen Crab with the Cloud C2 Software
 
 ### ON Cloud C2 
 
@@ -151,7 +151,7 @@ This is the directions for how to connect the Screen Crab with the Cloud C2 Soft
 <img width="1932" height="446" alt="Screenshot 2026-05-03 180057" src="https://github.com/user-attachments/assets/6f31cdc3-252c-4786-9c0d-af2e748a2893" />
 
 
-5. Add `device.config` to the root drive of the Micro SD card _(Pictured Below)_
+5. Add `device.config` to the root drive of the MicroSD card _(Pictured Below)_
 
 
 
@@ -159,7 +159,7 @@ This is the directions for how to connect the Screen Crab with the Cloud C2 Soft
 
 
 
-5. Change the `config.txt` file to add the WIFI SSID and the Password. Base this off of the promts shown in the .txt file _(Pictured Below)_
+5. Change the `config.txt` file to add the WIFI SSID and the Password. Base this off of the prompts shown in the .txt file _(Pictured Below)_
 
 
 <img width="1349" height="612" alt="image" src="https://github.com/user-attachments/assets/adc1f5d2-d17b-4855-9ac5-c7a347aaf82b" />
@@ -168,7 +168,7 @@ This is the directions for how to connect the Screen Crab with the Cloud C2 Soft
 6. Insert the MicroSD card back into the Screen Crab while the device is powered off
 
 
-8. Connect the Screen Crab to power via the USB-C cable, the device should automatically connect the the server as well as the WIFI _(Pictured Below)_
+8. Connect the Screen Crab to power via the USB-C cable, the device should automatically connect to the server as well as the WIFI _(Pictured Below)_
 
 
 <img width="2870" height="1673" alt="Screenshot 2026-05-03 180419" src="https://github.com/user-attachments/assets/5adc0fc8-8ae6-44d9-9957-ec1fdfca07ec" />
