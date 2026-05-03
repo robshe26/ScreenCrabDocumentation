@@ -142,9 +142,13 @@ This is the directions for how to connect the Screen Crab with the Cloud C2 Soft
 1. Add a new Screen Crab Device on Cloud C2 _(Pictured Below)_
 
 
+<img width="2867" height="762" alt="Screenshot 2026-05-03 181600" src="https://github.com/user-attachments/assets/0a865459-1f00-4ae0-8402-15234c9dc10f" />
 
-3. Click the add device selection, this should begin a download named `device.config`
 
+3. Click the add device selection, this should begin a download named `device.config` _(Pictured Below)_
+
+
+<img width="1932" height="446" alt="Screenshot 2026-05-03 180057" src="https://github.com/user-attachments/assets/6f31cdc3-252c-4786-9c0d-af2e748a2893" />
 
 
 5. Add `device.config` to the root drive of the Micro SD card _(Pictured Below)_
@@ -167,7 +171,17 @@ This is the directions for how to connect the Screen Crab with the Cloud C2 Soft
 8. Connect the Screen Crab to power via the USB-C cable, the device should automatically connect the the server as well as the WIFI _(Pictured Below)_
 
 
+<img width="2870" height="1673" alt="Screenshot 2026-05-03 180419" src="https://github.com/user-attachments/assets/5adc0fc8-8ae6-44d9-9957-ec1fdfca07ec" />
+
+
+
 10. After connecting to the server, you can now make remote edits to the config, view the captured loot, and make changes to the device. _(Pictured Below)_
+
+
+<img width="2868" height="1686" alt="Screenshot 2026-05-03 180437" src="https://github.com/user-attachments/assets/415e4b85-b140-4641-8592-924a078a411a" />
+
+<img width="2879" height="1791" alt="Screenshot 2026-05-03 180629" src="https://github.com/user-attachments/assets/faf2d103-b1ff-4535-9aee-4a2bf67c3911" />
+
 
 
 
