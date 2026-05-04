@@ -32,7 +32,7 @@ ___Example pictured here:___
 
 <img width="799" height="635" alt="image" src="https://github.com/user-attachments/assets/be34310c-bff2-4031-adce-106448b90045" />
           
-          -Go to Actions and click **Allow**
+  - Go to Actions and click **Allow**
   
 4. After the download is complete go to Windows File Manager &rarr; Downloads
 
