@@ -70,8 +70,8 @@ ___Example pictured here:___
 
 <img width="1157" height="1234" alt="image" src="https://github.com/user-attachments/assets/ba27d186-58d1-43c0-a0ac-a56394fb7c94" />
 
--Click **Free Download** for the community version
--Complete checkout and have the product key sent one of your emails
+- Click **Free Download** for the community version
+- Complete checkout and have the product key sent one of your emails
 
 7.Now go back to your Virtual Machine
 - In the ouput of start the server there should be a Setup Token(you will want to write this down somewhere)
@@ -97,7 +97,7 @@ ___Example pictured here:___
 
     <img width="995" height="688" alt="image" src="https://github.com/user-attachments/assets/eb296ac2-c58b-4ab6-99b3-3aa1c99f8d78" />
 
-        - This should be what the UI look like
+    - This should be what the UI look like
   
     - Then stop the server, restart it and log in again to make sure everything worked
   
@@ -111,12 +111,22 @@ ___Example pictured here:___
 - Hold RESET button (back) for 10 seconds, the wait for reboot
 - Plug your latop into one of the yellow lan port on the back of the device
 - Open a browser and go to http://192.168.1.1
-- Log in to the software and go to Adminisration>Operation Mode
-- Select: Router Mode -> Save / Apply(Router will reboot)
-- Connect to the Router by the browser
-- Go to Wireless Settings
-- Set SSID: <any_valid_network_name>
-           
+
+___Example pictured here:___
+<img width="2512" height="1223" alt="image" src="https://github.com/user-attachments/assets/92f2bdc8-02b6-4fde-88ed-9654200a929d" />
+
+- Click: Manual Setting
+- Set Credentials:
+  - Login Name: admin
+  - Password: Passw0rd!
+- Keep it in Wireless Router Mode(Default)
+- When you are prompted: Does your Internet connection require user name and password?
+  - Set to: No
+- Set DHCP: Automatic
+- Set Network Name(SSID): CYBlab<first_INT_last_Name>
+- Set Password: Passw0rd!
+- Router Config should be complete 
+          
 9. Now reconfigure your network adapter settings on your VM
 - Set Adapter 1:
   - Attached to: Bridged Adapter
@@ -149,6 +159,14 @@ ___Example pictured here:___
 
 - Then run c2-3.5.2_amd64_windows.exe -hostname <ip_addr_of_adapter>
 - Now you can connect to the server via a browser on any machine connected to that Network
+
+___Example pictured here:___
+
+<img width="1609" height="1161" alt="image" src="https://github.com/user-attachments/assets/e834db9d-0ad4-4ced-a89b-2ce9aa15d9f8" />
+
+- This should be the resulting page and now you can connect the Wireless tools to the Server
+
+
 
 
 
