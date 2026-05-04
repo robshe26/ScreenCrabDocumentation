@@ -105,7 +105,7 @@ ___Example pictured here:___
 
 
 
-8. Next Setup the Wireless access point
+8. Next Setup the Wireless Router
 - First take out Asus RT-N66U Dark Knight and plug it into power(NOT THE SWITCH YET)
 - Power on the router
 - Hold RESET button (back) for 10 seconds, the wait for reboot
@@ -117,7 +117,38 @@ ___Example pictured here:___
 - Go to Wireless Settings
 - Set SSID: <any_valid_network_name>
            
+9. Now reconfigure your network adapter settings on your VM
+- Set Adapter 1:
+  - Attached to: Bridged Adapter
+  - Name: Intel(R) Wi-Fi 6E AX211 160MHz
+  - Adapter Type: Intel PRO/1000 MT Desktop  
+- Set Adapter 2:
+  - Attached to: Bridged Adapter
+  - Name: Realtek USB GbE Family Controller(or Ethernet if you are not using a USB adapter)
+  - Adapter Type: Intel PRO/1000 MT Desktop
+-On both the Host machine and Virtual machine configure adapter priority
+  - Go to Control Panel>Netowrk and Internet>Network and Sharing Center>Change Adapter Settings
+      - For the adapter with Internet connection:
+        - Properties>IPv4>Advanced>Set Interface metric: 10
 
+      ___Example pictured here:___
+      <img width="397" height="482" alt="image" src="https://github.com/user-attachments/assets/a6aac0b6-e25b-4172-ba41-e0a8ef390c33" />
+
+      - For the adapter with no Internet(Connection over Ethernet):
+        - Properties>IPv4>Advanced>Set Interface metric: 50
+
+      ___Example pictured here:___
+      <img width="393" height="480" alt="image" src="https://github.com/user-attachments/assets/7aa6ec40-e656-4c7f-ae7e-0ea3a5cef0ac" />
+
+10. Restart the server to run over the Network with no Internet
+- Make sure the server is stopped
+- Run and IP config to see what IP address the router gave the VM
+
+ ___Example pictured here:___
+<img width="548" height="245" alt="image" src="https://github.com/user-attachments/assets/0e6dcd34-d396-401d-8902-4f69c786b985" />
+
+- Then run c2-3.5.2_amd64_windows.exe -hostname <ip_addr_of_adapter>
+- Now you can connect to the server via a browser on any machine connected to that Network
 
 
 
