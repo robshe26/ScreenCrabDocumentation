@@ -150,7 +150,7 @@ ___Example pictured here:___
       ___Example pictured here:___
       <img width="393" height="480" alt="image" src="https://github.com/user-attachments/assets/7aa6ec40-e656-4c7f-ae7e-0ea3a5cef0ac" />
 
-10. Restart the server to run over the Network with no Internet
+10. Restart the server to run over the Network running over the Router
 - Make sure the server is stopped
 - Run and IP config to see what IP address the router gave the VM
 
